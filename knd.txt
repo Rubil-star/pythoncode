@@ -1,0 +1,5 @@
+#volume of a cilinder
+def volume(l,r,pi=3.142)
+     x=pi*r*r*1
+     print("volume of a cilinder",x)
+volume(7,8)
